@@ -1,0 +1,7 @@
+{
+  "welcomeMessage": "Welcome on this TeamSpeak server, %user%!",
+  "helpMessage": "Bot created with ❤ by [B][url=https://www.razuuu.de]Razuuu[/url][/B]",
+  "stopMessage": "The bot will shutdown.",
+  "languageSetMessage": "Language set to English.",
+  "unknownCommandMessage": "Unknown command! Type !help to see the list of available commands."
+}

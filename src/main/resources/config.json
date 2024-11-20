@@ -1,0 +1,9 @@
+{
+  "host": "127.0.0.1",
+  "queryUsername": "serveradmin",
+  "queryPassword": "password",
+  "nickname": "TeamSpeakBot",
+  "virtualServerId": 1,
+  "defaultLanguage": "en_US",
+  "commandPrefix": "!"
+}
